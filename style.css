@@ -846,6 +846,22 @@ h4 {
     color: #1abae9;
     line-height: 6mm;
 }
+.textoY {
+    position: absolute; 
+    top: 330px;
+    left: 130px;
+    font-size: 26px;
+    color: #ffffff;
+    line-height: 1cm;
+}
+.textoZ {
+    position: absolute; 
+    top: 360px;
+    left: 130px;
+    font-size: 15px;
+    color: #e4e6e8;
+    line-height: 1cm;
+}
 .cuadrado11 {
     position: relative;
     top: -152px;
@@ -869,22 +885,6 @@ h4 {
     height: 76px;
     left: 520px;
     border: 1px solid #e4e6e8;
-}
-.textoY {
-    position: absolute; 
-    top: 330px;
-    left: 130px;
-    font-size: 26px;
-    color: #ffffff;
-    line-height: 1cm;
-}
-.textoZ {
-    position: absolute; 
-    top: 360px;
-    left: 130px;
-    font-size: 15px;
-    color: #e4e6e8;
-    line-height: 1cm;
 }
 .texto72 {
     position: absolute; 
